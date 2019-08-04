@@ -9,6 +9,7 @@
     "test:watch": "mocha --watch --recursive"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "chance": "^1.0.18",
@@ -20,6 +21,7 @@
     "lodash": "^4.17.15",
     "mocha": "^6.2.0",
     "morgan": "~1.9.1",
+    "multer": "^1.4.2",
     "node-sass-middleware": "0.11.0",
     "nodemon": "^1.19.1",
     "uuid": "^3.3.2"
